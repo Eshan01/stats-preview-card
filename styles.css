@@ -21,7 +21,7 @@ body{
     line-height: 1.5;
 }
 .img-head{
-    /* opacity: 0.7; */
+    height:247px;
     background-color: var(--Soft-violet);
 }
 .img-head img{
