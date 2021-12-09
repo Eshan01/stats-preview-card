@@ -140,20 +140,24 @@ main > p {
     padding-top: 15px;
   }
 }
-/* @media (min-width:1000px){
-    .card{
-        width:90vw;        
-    }   
-    .img-head{
-      width: 400px;
-    }
-    .img-head img{
-        width: inherit;
-    }
-    .card-wrapper{
- 
-    }
-    .stat{
-      
-    }
-} */
+
+@media (min-width: 1000px) {
+  body {
+    width: 100vw;
+  }
+  .card {
+    width: 75vw;
+  }
+  .img-head {
+    width: 450px;
+  }
+  .img-head img {
+    width: inherit;
+  }
+  .card-wrapper {
+    width: 500px;
+    margin: 10px auto auto 0;
+  }
+  .stat {
+  }
+}
