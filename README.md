@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 - Mobile design
+
   ![](./screenshots/ss-mobile.png)
 
 - Desktop design
